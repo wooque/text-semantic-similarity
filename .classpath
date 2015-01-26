@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/mnt/PODACI/projekti/psz/deps/edu.mit.jwi_2.3.3_jdk.jar"/>
+	<classpathentry kind="lib" path="/mnt/PODACI/projekti/psz/deps/stanford-corenlp/ejml-0.23.jar"/>
+	<classpathentry kind="lib" path="/mnt/PODACI/projekti/psz/deps/stanford-corenlp/javax.json.jar"/>
+	<classpathentry kind="lib" path="/mnt/PODACI/projekti/psz/deps/stanford-corenlp/joda-time.jar"/>
+	<classpathentry kind="lib" path="/mnt/PODACI/projekti/psz/deps/stanford-corenlp/jollyday.jar"/>
+	<classpathentry kind="lib" path="/mnt/PODACI/projekti/psz/deps/stanford-corenlp/stanford-corenlp-3.5.0.jar"/>
+	<classpathentry kind="lib" path="/mnt/PODACI/projekti/psz/deps/stanford-corenlp/stanford-corenlp-3.5.0-models.jar"/>
+	<classpathentry kind="lib" path="/mnt/PODACI/projekti/psz/deps/stanford-corenlp/xom.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
