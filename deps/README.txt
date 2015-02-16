@@ -1,7 +1,4 @@
-deps folder:
-edu.mit.jwi_2.3.3_jdk
-
-deps/stanford-corenlp folder:
+edu.mit.jwi_2.3.3_jdk.jar
 ejml-0.23.jar
 javax.json.jar
 joda-time.jar

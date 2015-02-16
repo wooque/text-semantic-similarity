@@ -2,13 +2,13 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="/mnt/PODACI/projekti/psz/deps/edu.mit.jwi_2.3.3_jdk.jar"/>
-	<classpathentry kind="lib" path="/mnt/PODACI/projekti/psz/deps/stanford-corenlp/ejml-0.23.jar"/>
-	<classpathentry kind="lib" path="/mnt/PODACI/projekti/psz/deps/stanford-corenlp/javax.json.jar"/>
-	<classpathentry kind="lib" path="/mnt/PODACI/projekti/psz/deps/stanford-corenlp/joda-time.jar"/>
-	<classpathentry kind="lib" path="/mnt/PODACI/projekti/psz/deps/stanford-corenlp/jollyday.jar"/>
-	<classpathentry kind="lib" path="/mnt/PODACI/projekti/psz/deps/stanford-corenlp/stanford-corenlp-3.5.0.jar"/>
-	<classpathentry kind="lib" path="/mnt/PODACI/projekti/psz/deps/stanford-corenlp/stanford-corenlp-3.5.0-models.jar"/>
-	<classpathentry kind="lib" path="/mnt/PODACI/projekti/psz/deps/stanford-corenlp/xom.jar"/>
+	<classpathentry kind="lib" path="/mnt/RADNI/text-semantic-similarity/deps/edu.mit.jwi_2.3.3_all/edu.mit.jwi_2.3.3_jdk.jar"/>
+	<classpathentry kind="lib" path="/mnt/RADNI/text-semantic-similarity/deps/stanford-corenlp-full-2015-01-30/ejml-0.23.jar"/>
+	<classpathentry kind="lib" path="/mnt/RADNI/text-semantic-similarity/deps/stanford-corenlp-full-2015-01-30/javax.json.jar"/>
+	<classpathentry kind="lib" path="/mnt/RADNI/text-semantic-similarity/deps/stanford-corenlp-full-2015-01-30/joda-time.jar"/>
+	<classpathentry kind="lib" path="/mnt/RADNI/text-semantic-similarity/deps/stanford-corenlp-full-2015-01-30/jollyday.jar"/>
+	<classpathentry kind="lib" path="/mnt/RADNI/text-semantic-similarity/deps/stanford-corenlp-full-2015-01-30/stanford-corenlp-3.5.1.jar"/>
+	<classpathentry kind="lib" path="/mnt/RADNI/text-semantic-similarity/deps/stanford-corenlp-full-2015-01-30/stanford-corenlp-3.5.1-models.jar"/>
+	<classpathentry kind="lib" path="/mnt/RADNI/text-semantic-similarity/deps/stanford-corenlp-full-2015-01-30/xom.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
